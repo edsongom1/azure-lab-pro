@@ -12,6 +12,8 @@ Este espaço é uma central de recursos sobre Azure, ideal para quem está:
 - Migrando de outras plataformas
 - Estudando para certificações Microsoft
 - Buscando praticar com laboratórios e comandos reais
+- Dio.me Labs | Microsoft Azure Cloud Native
+
 
 Você encontrará aqui:
 
