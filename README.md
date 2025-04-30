@@ -91,7 +91,7 @@ Este repositório é pessoal, mas sugestões e contribuições são sempre bem-v
 Olá! Sou **Edson Gomes**, em transição de carreira para a área de Cloud, apaixonado por tecnologia e por compartilhar conhecimento.
 
 - 🔗 Meu GitHub: [github.com/edsongom1](https://github.com/edsongom1)
-- 🎓 Meu perfil na DIO: [dio.me/edsongom1](https://dio.me/edsongom1)
+- 🎓 Meu perfil na DIO: [dio.me/edsongom1](https://www.dio.me/users/edsgom)
 - 💼 LinkedIn: *(adicione seu link aqui)*
 
 ---
