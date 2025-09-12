@@ -1,0 +1,43 @@
+# Criando uma Máquina Virtual (VM) no Azure - Passo a Passo
+
+Este guia explica como criar uma máquina virtual básica no Microsoft Azure, ideal para quem está começando a usar a plataforma de nuvem.
+
+## Passo a passo
+
+1. Acesse o portal do Azure e faça login na sua conta.
+
+2. No campo de busca do portal, pesquise por **Máquinas virtuais**.
+
+3. Clique no botão **Criar** e selecione **Máquina virtual do Azure**.
+
+4. Na aba **Básico** ou **Detalhes da instância**, preencha os campos:
+   - Nome da máquina virtual (exemplo: `myVM`).
+   - Região onde a VM será criada.
+   - Imagem do sistema operacional (exemplo: Windows Server 2022 Datacenter).
+   - Tamanho da VM (configuração de CPU e memória).
+   - Crie uma conta de administrador com nome de usuário e senha.
+
+5. Em **Regras de porta de entrada**, permita as portas necessárias, geralmente a porta RDP (3389) para Windows.
+
+6. Avance para as abas de discos, redes e configurações adicionais, ajustando conforme suas necessidades ou mantendo os padrões.
+
+7. Clique em **Examinar + criar** para revisar as configurações.
+
+8. Após validação, clique em **Criar** para iniciar a implantação da VM.
+
+9. Quando a criação estiver concluída, acesse a VM pelo portal ou via RDP usando as credenciais criadas.
+
+## Notas importantes
+
+- Salve suas credenciais para acessar a VM futuramente.
+- A região escolhida afeta a latência e o preço da VM.
+- Adapte as configurações conforme o uso desejado, adicionando discos, configurando redes, etc.
+
+---
+
+Esse guia é voltado para VMs Windows, mas o processo é semelhante para VMs Linux, bastando escolher a imagem correspondente.
+
+---
+
+Se este projeto foi útil para você, sinta-se livre para contribuir ou enviar sugestões!
+
