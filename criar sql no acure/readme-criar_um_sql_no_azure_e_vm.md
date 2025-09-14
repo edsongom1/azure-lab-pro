@@ -88,7 +88,7 @@ Etapas:
 ## 👨‍💻 Autor  
 Projeto desenvolvido por **Edson Gomes** para o **Desafio de Projeto DIO - Microsoft Azure**.  
 
-🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/edsongom1)  
+🔗 [LinkedIn](https://www.linkedin.com/edsongom) | [GitHub](https://github.com/edsongom1)  
 
 ---
 
