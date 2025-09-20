@@ -39,7 +39,7 @@ Você encontrará aqui:
 
 ## 🧱 Introdução ao Azure
 
-- [O que é Azure?](https://learn.microsoft.com/pt-br/azure/overview-what-is-azure)
+- [O que é Azure?](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-azure)
 - [Visão geral dos serviços Azure](https://azure.microsoft.com/pt-br/products/)
 - [Por que escolher Azure?](https://azure.microsoft.com/pt-br/overview/why-azure/)
 
