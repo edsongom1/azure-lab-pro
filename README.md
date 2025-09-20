@@ -58,7 +58,7 @@ Você encontrará aqui:
 
 - [Microsoft Learn – Trilhas de Azure](https://learn.microsoft.com/pt-br/training/azure/)
 - [Canal Microsoft Azure no YouTube](https://www.youtube.com/c/MicrosoftAzure)
-- [Curso AZ-900 Gratuito - YouTube](#) *([https://www.youtube.com/watch?v=h5PNYnwApkM&t=18s]
+- [Curso AZ-900 Gratuito - YouTube](https://www.youtube.com/watch?v=h5PNYnwApkM&t=18s) 
 
 ---
 
