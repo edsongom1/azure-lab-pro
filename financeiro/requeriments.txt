@@ -1,0 +1,26 @@
+# === STREAMLIT APP ===
+streamlit==1.39.0
+
+# === LANGCHAIN CORE ECOSSISTEMA ===
+langchain==0.2.14
+langchain-openai==0.1.21
+langchain-community==0.2.9
+langchain-text-splitters==0.2.2
+
+# === EMBEDDINGS E VETORES ===
+faiss-cpu==1.8.0
+tiktoken==0.7.0
+
+# === OPENAI CLIENT ===
+openai==1.52.0
+
+# === LEITURA DE PDF ===
+PyPDF2==3.0.1
+
+# === TENSORFLOW / KERAS (compatibilidade com Transformers) ===
+tensorflow==2.16.1
+tf-keras==2.16.0
+
+# === OUTRAS DEPENDÊNCIAS ÚTEIS ===
+numpy>=1.26.4
+requests>=2.32.3
